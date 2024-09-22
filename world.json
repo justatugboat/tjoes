@@ -1,0 +1,184 @@
+{
+  "title": "The Joy of Extradimensional Spaces",
+  "id": "the-joy-of-extradimensional-spaces",
+  "system": "dnd5e",
+  "joinTheme": "default",
+  "coreVersion": "12.328",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "3.2.1",
+  "lastPlayed": "Sat Jul 20 2024 19:48:26 GMT+0100 (British Summer Time)",
+  "playtime": 25582,
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-backgrounds",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-backgrounds",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-classes",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-classes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-subclasses",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-subclasses",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-class-features",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-class-features",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-feats",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-feats",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-items",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-items",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-monsters",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-monsters",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-vehicles",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-vehicles",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-races",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-races",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-racial-traits",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-racial-traits",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-spells",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-spells",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-tables",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-tables",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-override",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-override",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Summons",
+      "name": "ddb-the-joy-of-extradimensional-spaces-ddb-summons",
+      "path": "packs/ddb-the-joy-of-extradimensional-spaces-ddb-summons",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
